@@ -7,3 +7,4 @@ Dopo la generazione del codice, tutti i file sotto la directory "Middlewares\ST\
 
 I passi di sviluppo quindi vanno dal progetto notebook che mi genera il modello Keras, l'import e la conversione/generazione del codice e poi la copia dei file di netork/weights nel progetto finale.
 
+I file notebook sono all'nterno dei progetti.
